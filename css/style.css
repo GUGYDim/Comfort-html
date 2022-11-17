@@ -290,14 +290,14 @@
 
 .intro-title {
     font-weight: 900;
-    font-size: 24px;
+    font-size: 44px;
     line-height: 1.36;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: #0000FF;
-    padding-top: 20px;
-   
+    color: var(--white);
+
+    margin-bottom: 30px;
 }
 
 
@@ -324,14 +324,13 @@
 }
 .intro-title_2{
     font-weight: 400;
-    font-size: 20px;
+    font-size: 30px;
     line-height: 0,5;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: #ffff00;
-
-    padding-top: 20px;
+    color: var(--white);
+    margin-bottom: 30px;
 }
 
 
